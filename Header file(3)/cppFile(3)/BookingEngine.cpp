@@ -1,7 +1,6 @@
 /*
- * File: BookingEngine.cpp
- * Author: Mahi Rawat (Part 3)
- * Description: Implementation of booking validation, CSV loading, and data persistence.
+ Author: Mahi Rawat (Part 3)
+ Description: Implementation of booking validation, CSV loading, and data persistence.
  */
 
 #include "BookingEngine.h"
