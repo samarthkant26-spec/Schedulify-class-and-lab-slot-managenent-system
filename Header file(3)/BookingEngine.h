@@ -1,6 +1,6 @@
 /*
- * Author: Mahi Rawat (Part 3)
- * Description: 5-tier booking validator, timetable CSV parser, and file persistence.
+ Author: Mahi Rawat (Part 3)
+ Description: 5-tier booking validator, timetable CSV parser, and file persistence.
  */
 
 #ifndef BOOKING_ENGINE_H
